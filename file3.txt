@@ -1,3 +1,4 @@
 first line in file 3 
 seconde line in file 3
+third line in file 3 
 
